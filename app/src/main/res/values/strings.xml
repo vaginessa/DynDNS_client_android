@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dynamic DNS client</string>
+    <string name="edit_domain">Input your domain</string>
+    <string name="button_update">Update</string>
+</resources>
